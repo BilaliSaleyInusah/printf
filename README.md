@@ -1,1 +1,2 @@
-Our team work read me file
+# About the printf project
+This is a project on printf.
